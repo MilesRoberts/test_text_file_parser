@@ -11,8 +11,11 @@ Celluloid
 ## Usage:
 
 ~$ git clone https://github.com/MilesRoberts/test_text_file_parser.git
+
 ~$ cd test\_text\_file\_parser/
+
 ~/test\_text\_file\_parser$ bundle
+
 ~/test\_text\_file\_parser$ ruby text\_file\_parser.rb PATH\_TO\_TEXT\_FILE
 
 ## Caveats
